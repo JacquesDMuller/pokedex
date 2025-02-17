@@ -122,12 +122,3 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 </div>
 
 ---
-
-### 🔍 **Key README Features Highlighted** 
-- **Dual-Language Support**: Structured for global accessibility.  
-- **Visual Storytelling**: GIF demo and badges for quick engagement.  
-- **Modular Design**: Easy-to-navigate sections with a TOC.  
-- **Community Focus**: Clear contribution guidelines.  
-- **Tech Transparency**: Explicit dependencies and tools.  
-
-Para inspiração adicional, consulte [awesome-readme-examples](https://github.com/sway3406/awesome-readme-examples) e [README-template](https://github.com/open-awesome/README-template).
